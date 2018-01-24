@@ -1,4 +1,4 @@
-baseurl = "/./" 
+baseurl = "https://chrissstadin.github.io/" 
 publishDir = "./"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 enableEmoji = true
